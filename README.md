@@ -1,5 +1,8 @@
 
-# Backend Project
+# Aziz-Mart-API
+
+## Starting Code
+This section contains the initial code setup for the project, which can be used as a foundation to build upon.
 
 ## Description
 A backend project built with Node.js, Express, and PostgreSQL.
